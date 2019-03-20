@@ -108,6 +108,7 @@ Skill Levels:
 * 名字： 顾暖光
 * Age: 29
 * 年龄： 29
+* Email: nuanguang.gu@aliyun.com
 
 ### Educational Background
 ### 教育背景
